@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soetay1-ux.github.io/SAYARTAY-2D-PRO-Downloads/sitemap.xml
